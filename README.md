@@ -48,4 +48,4 @@ To get started with this project locally, follow the steps below:
 For any questions or feedback, feel free to reach out:
 
 - **Email**: akshays181999@gmail.com
-- **GitHub**: [Your GitHub Profile](https://github.com/AkshaySonawane86)
+- **GitHub**: [GitHub Profile](https://github.com/AkshaySonawane86)
